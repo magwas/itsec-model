@@ -1,0 +1,9 @@
+id: b4ca763d
+name: Input validation
+documentation: '"Input validation in the frontend defends the frontend itself. Input
+  validation in frontend integration defends the whole enterprise against problem
+  propagation."'
+folderPath: Layers/security functions
+properties: []
+type: application
+elementType: ApplicationFunction

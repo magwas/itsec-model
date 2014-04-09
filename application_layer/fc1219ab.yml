@@ -1,0 +1,7 @@
+id: fc1219ab
+name: Authentication
+documentation: '"Authentication is done in the front-end layer"'
+folderPath: Layers/security functions
+properties: []
+type: application
+elementType: ApplicationFunction

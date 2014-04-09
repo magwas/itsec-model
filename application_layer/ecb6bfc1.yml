@@ -1,0 +1,8 @@
+id: ecb6bfc1
+name: Storage
+documentation: '"Persistent storage of data, be it an rdbms, flat file or anything
+  else."'
+folderPath: Layers/layer functions
+properties: []
+type: application
+elementType: ApplicationFunction

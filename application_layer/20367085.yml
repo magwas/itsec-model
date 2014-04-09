@@ -1,0 +1,8 @@
+id: '20367085'
+name: Data-based integration
+documentation: '"online replication, batch transfer and ETL are examples of these
+  functionalities."'
+folderPath: Layers/layer functions
+properties: []
+type: application
+elementType: ApplicationFunction

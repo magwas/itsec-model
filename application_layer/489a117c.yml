@@ -1,0 +1,12 @@
+id: 489a117c
+name: Enclave
+documentation: |-
+  "An enclave is the unit of domain separation on the large-scale enterprise architecture.
+  It is defined by the landscape, layer, and domain it belongs to (for example "production CRM backend").
+  The enclaves have significancy both in application and deployment architecture.
+  From the application layer point of view an enclave have a well-defined functionality, and a well-defined set of interfaces provided and required.
+  From the deployment perspective, an enclave is a network defence unit: a set of hosts on a common network, defended by firewall, according to a defined security policy."
+folderPath: Enterprise IT
+properties: []
+type: application
+elementType: ApplicationComponent

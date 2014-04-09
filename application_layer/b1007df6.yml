@@ -1,0 +1,7 @@
+id: b1007df6
+name: Business logic
+documentation: '"The logic needed for the business."'
+folderPath: Layers/layer functions
+properties: []
+type: application
+elementType: ApplicationFunction

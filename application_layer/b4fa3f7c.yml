@@ -1,0 +1,9 @@
+id: b4fa3f7c
+name: Personal device defence
+documentation: |-
+  "Malware protection, personal firewalls, etc, you name it.
+  I find this part of security boring, full of marketing bullshit (defence against APTs, really?)  and already beaten to death."
+folderPath: Layers/security functions
+properties: []
+type: application
+elementType: ApplicationFunction

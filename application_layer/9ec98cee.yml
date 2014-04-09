@@ -1,0 +1,15 @@
+id: 9ec98cee
+name: Authorization
+documentation: |-
+  "Authorization basically takes place in all layers.
+  We differentiate between user-based and system-based authorization.
+  The placement of user-based authorization is an overall enterprise architecture decision.
+  From the security perspective and from the view of front-end developers it is better to offload authorization decisions from frontend layer entirely.
+  However there are backend systems which (either for technical or licence reasons) are incapable of user-based authorization.
+  In this case we should either keep it in the frontend layer, or use the frontend integration layer as a workaround.
+  Note that authorization in the frontend integration layer is a workaround, as detailed (more granular than "this user can call that service") authorization is infeasible (and does not belong there). Also the authorization may be enforced inthe frontend integration while the decision is done in some backend system.
+  In all layers (with exception of frontend where it is not applicable) there should be authorization based on system"
+folderPath: Layers/security functions
+properties: []
+type: application
+elementType: ApplicationFunction

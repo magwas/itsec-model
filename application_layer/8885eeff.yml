@@ -1,0 +1,13 @@
+id: 8885eeff
+name: mission-specific interaction with Real World
+documentation: |-
+  "Examples are:
+  - Healthcare: the actual diagnostic equipments
+  - Manufacturing: factory automation
+  - Telco: network (with management, control and transport planes as sublayers)
+  - Defence: combat equipment
+  "
+folderPath: Layers/layer functions
+properties: []
+type: application
+elementType: ApplicationFunction

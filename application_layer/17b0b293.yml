@@ -1,0 +1,10 @@
+id: 17b0b293
+name: Information flow control
+documentation: |-
+  "The "M" components - according to Red Book - are in the integration layer.
+  The integration components are responsible for control of information flow.
+  "
+folderPath: Layers/security functions
+properties: []
+type: application
+elementType: ApplicationFunction

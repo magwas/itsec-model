@@ -1,0 +1,8 @@
+id: d3fefa74
+name: No production data in non-production landscapes
+documentation: '"The  landscapes other than production should not contain production
+  data."'
+folderPath: ''
+properties: []
+type: motivation
+elementType: Principle

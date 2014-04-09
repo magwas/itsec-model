@@ -1,0 +1,102 @@
+id: 78f2c434
+diagramElements:
+  08733aee:
+    elementObjectId: 42b70a51
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '497'
+    boundsY: '36'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      9ae7c647: {elementObjectId: 68f12c30, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 159526c5}
+      508da554: {elementObjectId: '1803e270', font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: '92646865'}
+      526c48ca: {elementObjectId: b03942a8, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: deb3e2da}
+  deb3e2da:
+    elementObjectId: 096c3d40
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '276'
+    boundsY: '120'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      55a9457c: {elementObjectId: dd03b587, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 405dc5cd}
+  405dc5cd:
+    elementObjectId: 489a117c
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '480'
+    boundsY: '228'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      244c4991: {elementObjectId: 8b7a5746, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 5a071b36}
+  5a071b36: {elementObjectId: e24bb58e, fillColour: null, font: null, fontColour: null,
+    boundsX: '24', boundsY: '24', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 405dc5cd}
+  159526c5:
+    elementObjectId: c8f332e7
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '497'
+    boundsY: '120'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      '08653964': {elementObjectId: 1744f5c6, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 405dc5cd}
+  '92646865':
+    elementObjectId: 01d95b92
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '708'
+    boundsY: '120'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      c5a02f53: {elementObjectId: 27049aac, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 405dc5cd}
+diagramSpecificElements: {}
+name: Enterprise IT
+documentation: |
+  The IT architecture of the enterprise is divided to landscapes, layers and domains.
+  The high level building block of the enterprise IT is the enclave.
+  Application components are deployed to enclaves.
+folderPath: Enterprise IT
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: application
+elementType: ArchimateDiagramModel

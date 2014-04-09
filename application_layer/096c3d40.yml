@@ -1,0 +1,9 @@
+id: 096c3d40
+name: Landscape
+documentation: |-
+  "A landscape (also known as "environment", or "deployment" is a functional set of application instances, fulfilling a common purpose in the development life cycle.
+  The primary landscape is the production one, which contains all application instances fulfilling the mission of the enterprise."
+folderPath: Enterprise IT
+properties: []
+type: application
+elementType: ApplicationComponent
